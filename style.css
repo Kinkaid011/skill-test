@@ -316,6 +316,10 @@ footer {
         padding: 1.5rem;
     }
 
+    .profile-contact {
+        padding: 2rem;
+    }
+
     .main-content-wrapper {
         display: grid;
         grid-template-columns: 1fr 1fr;
